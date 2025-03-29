@@ -150,13 +150,5 @@ Therefore, the base is \(\boxed{2}\).
 #%%
 
 #%% md
-# 在命令行窗口，可以使用以下脚本：
+
 #%% md
-# API调用（bash脚本调用）
-curl http://localhost:8080/v1/chat/completions \
- -H "Content-Type: application/json" \
- -d '{
-"model": "DeepSeek-R1-Distill-Qwen-1.5B",
-"messages": [{"role": "user", "content": "请介绍一下deepseek"}],
-"temperature": 0
-}'
