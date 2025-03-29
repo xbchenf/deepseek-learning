@@ -6,6 +6,6 @@
 
 其他最新动态请关注：
 
-<img src="../my-books/img_11.png" width="200" height="200"/>
+![微信公众号](images/img_gzh.jpg)
 
 
