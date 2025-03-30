@@ -23,9 +23,9 @@
 
 
 
-更多相关操作指南，请访问：https://blog.csdn.net/xiaobing259
+更多大模型开发实践专栏：https://blog.csdn.net/xiaobing259
 
-其他最新动态请关注：
+相关资讯|最新动态请关注：
 
 ![微信公众号](images/img_gzh.jpg)
 
